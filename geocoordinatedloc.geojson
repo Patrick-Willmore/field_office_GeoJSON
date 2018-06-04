@@ -1,0 +1,1123 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.9002778,61.2180556 ]
+    },
+    "properties": {
+    "State":" Alaska ",
+    "City":" Anchorage  ",
+    "office_code":" ANC ",
+    "desc":"Anchorage Alaska"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0740373,33.4483771 ]
+    },
+    "properties": {
+    "State":" Arizona ",
+    "City":" Phoenix  ",
+    "office_code":" PHO ",
+    "desc":"Phoenix Arizona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9747108,32.2226066 ]
+    },
+    "properties": {
+    "State":" Arizona ",
+    "City":" Tucson ",
+    "office_code":" TUC ",
+    "desc":"Tucson Arizona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.3985475,35.3859242 ]
+    },
+    "properties": {
+    "State":" Arkansas ",
+    "City":" Fort Smith  ",
+    "office_code":" FSA ",
+    "desc":"Fort Smith Arkansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0841955,32.6400541 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" Chula Vista ",
+    "office_code":" CVC ",
+    "desc":"Chula Vista California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7871247,36.7377981 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" Fresno  ",
+    "office_code":" FRE ",
+    "desc":"Fresno California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.5694391,32.8475528 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" Imperial ",
+    "office_code":" IMP ",
+    "desc":"Imperial California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2436849,34.0522342 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" Los Angeles  ",
+    "office_code":" LOS ",
+    "desc":"Los Angeles California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2436596,34.0522265 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" Los Angeles County  ",
+    "office_code":" LAC ",
+    "desc":"Los Angeles County California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4943996,38.5815719 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" Sacramento  ",
+    "office_code":" SAC ",
+    "desc":"Sacramento California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.2898,34.1083 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" San Bernardino ",
+    "office_code":" SBD ",
+    "desc":"San Bernardino   California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1628,32.7174 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" San Diego  ",
+    "office_code":" SND ",
+    "desc":"San Diego    California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.518835,34.251589 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" San Fernando Valley ",
+    "office_code":" SFV ",
+    "desc":"San Fernando Valley   California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.463,37.7648 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" San Francisco ",
+    "office_code":" SFR ",
+    "desc":"San Francisco   California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8261,37.2751 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" San Jose  ",
+    "office_code":" SNJ ",
+    "desc":"San Jose    California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8732,33.7495 ]
+    },
+    "properties": {
+    "State":" California ",
+    "City":" Santa Ana ",
+    "office_code":" SAA ",
+    "desc":"Santa Ana   California"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9653,39.7348 ]
+    },
+    "properties": {
+    "State":" Colorado ",
+    "City":" Denver  ",
+    "office_code":" DEN ",
+    "desc":"Denver    Colorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6831,41.7635 ]
+    },
+    "properties": {
+    "State":" Connecticut ",
+    "City":" Hartford  ",
+    "office_code":" HAR ",
+    "desc":"Hartford    Connecticut"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5244,39.1582 ]
+    },
+    "properties": {
+    "State":"Delaware",
+    "City":"Dover",
+    "office_code":" DVD ",
+    "desc":"Dover Delaware"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0366,38.895 ]
+    },
+    "properties": {
+    "State":" District of Columbia ",
+    "City":" Washington  ",
+    "office_code":" WAS ",
+    "desc":"Washington    District of Columbia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2781,25.8576 ]
+    },
+    "properties": {
+    "State":" Florida ",
+    "City":" Hialeah ",
+    "office_code":" HIA ",
+    "desc":"Hialeah   Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6557,30.3322 ]
+    },
+    "properties": {
+    "State":" Florida ",
+    "City":" Jacksonville ",
+    "office_code":" JAC ",
+    "desc":"Jacksonville   Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3173,25.6793 ]
+    },
+    "properties": {
+    "State":" Florida ",
+    "City":" Kendall ",
+    "office_code":" KND ",
+    "desc":"Kendall   Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1937,25.7743 ]
+    },
+    "properties": {
+    "State":" Florida ",
+    "City":" Miami  ",
+    "office_code":" MIA ",
+    "desc":"Miami    Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.8723,26.6406 ]
+    },
+    "properties": {
+    "State":" Florida ",
+    "City":" Fort Myers ",
+    "office_code":" OFM ",
+    "desc":"Fort Myers   Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0559,29.2858 ]
+    },
+    "properties": {
+    "State":" Florida ",
+    "City":" Oakland Park ",
+    "office_code":" OKL ",
+    "desc":"Oakland Park   Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.379,28.5421 ]
+    },
+    "properties": {
+    "State":" Florida ",
+    "City":" Orlando  ",
+    "office_code":" ORL ",
+    "desc":"Orlando    Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4584,27.9478 ]
+    },
+    "properties": {
+    "State":" Florida ",
+    "City":" Tampa  ",
+    "office_code":" TAM ",
+    "desc":"Tampa    Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0534,26.7153 ]
+    },
+    "properties": {
+    "State":" Florida ",
+    "City":" West Palm Beach ",
+    "office_code":" WPB ",
+    "desc":"West Palm Beach   Florida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3902,33.7491 ]
+    },
+    "properties": {
+    "State":" Georgia ",
+    "City":" Atlanta  ",
+    "office_code":" ATL ",
+    "desc":"Atlanta    Georgia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8557,21.3045 ]
+    },
+    "properties": {
+    "State":" Hawaii ",
+    "City":" Honolulu  ",
+    "office_code":" HHW ",
+    "desc":"Honolulu    Hawaii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.2044,43.615 ]
+    },
+    "properties": {
+    "State":" Idaho ",
+    "City":" Boise  ",
+    "office_code":" BOI ",
+    "desc":"Boise    Idaho"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6244,41.8756 ]
+    },
+    "properties": {
+    "State":" Illinois ",
+    "City":" Chicago  ",
+    "office_code":" CHI ",
+    "desc":"Chicago    Illinois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1584,39.7683 ]
+    },
+    "properties": {
+    "State":" Indiana ",
+    "City":" Indianapolis  ",
+    "office_code":" INP ",
+    "desc":"Indianapolis    Indiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6037,41.5911 ]
+    },
+    "properties": {
+    "State":" Iowa ",
+    "City":" Des Moines ",
+    "office_code":" DSM ",
+    "desc":"Des Moines   Iowa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3375,37.6922 ]
+    },
+    "properties": {
+    "State":" Kansas ",
+    "City":" Wichita ",
+    "office_code":" WIC ",
+    "desc":"Wichita   Kansas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7594,38.2542 ]
+    },
+    "properties": {
+    "State":" Kentucky ",
+    "City":" Louisville  ",
+    "office_code":" LOU ",
+    "desc":"Louisville    Kentucky"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0701,29.9499 ]
+    },
+    "properties": {
+    "State":" Louisiana ",
+    "City":" New Orleans  ",
+    "office_code":" NOL ",
+    "desc":"New Orleans    Louisiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2549,43.661 ]
+    },
+    "properties": {
+    "State":" Maine ",
+    "City":" Portland  ",
+    "office_code":" POM ",
+    "desc":"Portland    Maine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6108,39.2909 ]
+    },
+    "properties": {
+    "State":" Maryland ",
+    "City":" Baltimore  ",
+    "office_code":" BAL ",
+    "desc":"Baltimore    Maryland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0596,42.3605 ]
+    },
+    "properties": {
+    "State":" Massachusetts ",
+    "City":" Boston  ",
+    "office_code":" BOS ",
+    "desc":"Boston    Massachusetts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1631,42.707 ]
+    },
+    "properties": {
+    "State":" Massachusetts ",
+    "City":" Lawrence ",
+    "office_code":" LAW ",
+    "desc":"Lawrence   Massachusetts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0567,42.3487 ]
+    },
+    "properties": {
+    "State":" Michigan ",
+    "City":" Detroit  ",
+    "office_code":" DET ",
+    "desc":"Detroit    Michigan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1015,44.9504 ]
+    },
+    "properties": {
+    "State":" Minnesota ",
+    "City":" St. Paul  ",
+    "office_code":" SPM ",
+    "desc":"St. Paul    Minnesota"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.563,39.0845 ]
+    },
+    "properties": {
+    "State":" Missouri ",
+    "City":" Kansas City  ",
+    "office_code":" KAN ",
+    "desc":"Kansas City    Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.19,38.63 ]
+    },
+    "properties": {
+    "State":" Missouri ",
+    "City":" St. Louis  ",
+    "office_code":" STL ",
+    "desc":"St. Louis    Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0361,46.5927 ]
+    },
+    "properties": {
+    "State":" Montana ",
+    "City":" Helena  ",
+    "office_code":" HEL ",
+    "desc":"Helena    Montana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9379,41.2587 ]
+    },
+    "properties": {
+    "State":" Nebraska ",
+    "City":" Omaha  ",
+    "office_code":" OMA ",
+    "desc":"Omaha    Nebraska"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1492,36.1663 ]
+    },
+    "properties": {
+    "State":" Nevada ",
+    "City":" Las Vegas  ",
+    "office_code":" LVG ",
+    "desc":"Las Vegas    Nevada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8137,39.5293 ]
+    },
+    "properties": {
+    "State":" Nevada ",
+    "City":" Reno  ",
+    "office_code":" REN ",
+    "desc":"Reno    Nevada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4548,42.9956 ]
+    },
+    "properties": {
+    "State":" New Hampshire ",
+    "City":" Manchester  ",
+    "office_code":" MAN ",
+    "desc":"Manchester    New Hampshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.891,39.934 ]
+    },
+    "properties": {
+    "State":"New Jersey",
+    "City":" Mount Laurel ",
+    "office_code":" MTL ",
+    "desc":"Mount Laurel  New Jersey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1724,40.7357 ]
+    },
+    "properties": {
+    "State":"New Jersey",
+    "City":" Newark  ",
+    "office_code":" NEW ",
+    "desc":"Newark   New Jersey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.651,35.0841 ]
+    },
+    "properties": {
+    "State":" New Mexico ",
+    "City":" Albuquerque  ",
+    "office_code":" ABQ ",
+    "desc":"Albuquerque    New Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.755,42.6512 ]
+    },
+    "properties": {
+    "State":" New York ",
+    "City":" Albany  ",
+    "office_code":" ALB ",
+    "desc":"Albany    New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9496,40.6501 ]
+    },
+    "properties": {
+    "State":" New York ",
+    "City":" Brooklyn ",
+    "office_code":" BNY ",
+    "desc":"Brooklyn   New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.877,42.9333 ]
+    },
+    "properties": {
+    "State":" New York ",
+    "City":" Buffalo  ",
+    "office_code":" BUF ",
+    "desc":"Buffalo    New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9485,40.7455 ]
+    },
+    "properties": {
+    "State":" New York ",
+    "City":" Long Island ",
+    "office_code":" LNY ",
+    "desc":"Long Island   New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9808,40.7648 ]
+    },
+    "properties": {
+    "State":" New York ",
+    "City":" New York  ",
+    "office_code":" NYC ",
+    "desc":"New York    New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7976,40.7498 ]
+    },
+    "properties": {
+    "State":" New York ",
+    "City":" Queens ",
+    "office_code":" QNS ",
+    "desc":"Queens   New York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8431,35.2271 ]
+    },
+    "properties": {
+    "State":" North Carolina ",
+    "City":" Charlotte  ",
+    "office_code":" CLT ",
+    "desc":"Charlotte    North Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6391,35.7804 ]
+    },
+    "properties": {
+    "State":" North Carolina ",
+    "City":" Raleigh ",
+    "office_code":" RAL ",
+    "desc":"Raleigh   North Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5125,39.1015 ]
+    },
+    "properties": {
+    "State":" Ohio ",
+    "City":" Cincinnati  ",
+    "office_code":" CIN ",
+    "desc":"Cincinnati    Ohio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6934,41.5052 ]
+    },
+    "properties": {
+    "State":" Ohio ",
+    "City":" Cleveland  ",
+    "office_code":" CLE ",
+    "desc":"Cleveland    Ohio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0007,39.9623 ]
+    },
+    "properties": {
+    "State":" Ohio ",
+    "City":" Columbus ",
+    "office_code":" CLM ",
+    "desc":"Columbus   Ohio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5171,35.473 ]
+    },
+    "properties": {
+    "State":" Oklahoma ",
+    "City":" Oklahoma City  ",
+    "office_code":" OKC ",
+    "desc":"Oklahoma City    Oklahoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6742,45.5202 ]
+    },
+    "properties": {
+    "State":" Oregon ",
+    "City":" Portland  ",
+    "office_code":" POO ",
+    "desc":"Portland    Oregon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1327,40.0115 ]
+    },
+    "properties": {
+    "State":" Pennsylvania ",
+    "City":" Philadelphia ",
+    "office_code":" PHI ",
+    "desc":"Philadelphia   Pennsylvania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9901,40.4417 ]
+    },
+    "properties": {
+    "State":" Pennsylvania ",
+    "City":" Pittsburgh  ",
+    "office_code":" PIT ",
+    "desc":"Pittsburgh    Pennsylvania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128,41.824 ]
+    },
+    "properties": {
+    "State":" Rhode Island ",
+    "City":" Providence  ",
+    "office_code":" PRO ",
+    "desc":"Providence    Rhode Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9403,32.7876 ]
+    },
+    "properties": {
+    "State":" South Carolina ",
+    "City":" Charleston  ",
+    "office_code":" CHL ",
+    "desc":"Charleston    South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.2272,34.9381 ]
+    },
+    "properties": {
+    "State":" South Carolina ",
+    "City":" Greer ",
+    "office_code":" GRR ",
+    "desc":"Greer   South Carolina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0516,35.149 ]
+    },
+    "properties": {
+    "State":" Tennessee ",
+    "City":" Memphis  ",
+    "office_code":" MEM ",
+    "desc":"Memphis    Tennessee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7969,32.7763 ]
+    },
+    "properties": {
+    "State":" Texas ",
+    "City":" Dallas  ",
+    "office_code":" DAL ",
+    "desc":"Dallas    Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2221,31.8064 ]
+    },
+    "properties": {
+    "State":" Texas ",
+    "City":" El Paso  ",
+    "office_code":" ELP ",
+    "desc":"El Paso    Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6961,26.1906 ]
+    },
+    "properties": {
+    "State":" Texas ",
+    "City":" Harlingen  ",
+    "office_code":" HLG ",
+    "desc":"Harlingen    Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3677,29.7589 ]
+    },
+    "properties": {
+    "State":" Texas ",
+    "City":" Houston  ",
+    "office_code":" HOU ",
+    "desc":"Houston    Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4951,29.4246 ]
+    },
+    "properties": {
+    "State":" Texas ",
+    "City":" San Antonio  ",
+    "office_code":" SNA ",
+    "desc":"San Antonio    Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8904,40.767 ]
+    },
+    "properties": {
+    "State":" Utah ",
+    "City":" Salt Lake City  ",
+    "office_code":" SLC ",
+    "desc":"Salt Lake City    Utah"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.0832,44.8109 ]
+    },
+    "properties": {
+    "State":" Vermont ",
+    "City":" St. Albans  ",
+    "office_code":" STA ",
+    "desc":"St. Albans    Vermont"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.2916,36.8465 ]
+    },
+    "properties": {
+    "State":" Virginia ",
+    "City":" Norfolk  ",
+    "office_code":" NOR ",
+    "desc":"Norfolk    Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3301,47.6038 ]
+    },
+    "properties": {
+    "State":" Washington ",
+    "City":" Seattle  ",
+    "office_code":" SEA ",
+    "desc":"Seattle    Washington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.4247,47.6589 ]
+    },
+    "properties": {
+    "State":" Washington ",
+    "City":" Spokane  ",
+    "office_code":" SPO ",
+    "desc":"Spokane    Washington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5108,46.6016 ]
+    },
+    "properties": {
+    "State":" Washington ",
+    "City":" Yakima ",
+    "office_code":" YAK ",
+    "desc":"Yakima   Washington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6333,38.3506 ]
+    },
+    "properties": {
+    "State":" West Virginia ",
+    "City":" Charleston  ",
+    "office_code":" CHS ",
+    "desc":"Charleston    West Virginia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9735,43.0115 ]
+    },
+    "properties": {
+    "State":" Wisconsin ",
+    "City":" Milwaukee  ",
+    "office_code":" MIL ",
+    "desc":"Milwaukee    Wisconsin"
+    }
+  }
+]
+}
